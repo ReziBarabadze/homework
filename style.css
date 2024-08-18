@@ -1,0 +1,38 @@
+/* logo */
+
+header{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: darkslategray;
+  height: 100px;
+  
+}
+h1{
+  font-weight: 900;
+  font-size: 50px;
+  color: #fff;
+}
+.header_ul{
+  background-color: cadetblue;
+  padding: 50px;
+  /* display: none; */
+
+}
+.header_li{
+  margin-bottom: 40px;
+}
+.li_a{
+  font-size: 30px;
+}
+
+.fa-bars{
+  font-size: 30px;
+  color: #fff;
+}
+.fa-xmark{
+  font-size: 30px;
+  color: #fff;
+
+  
+}
